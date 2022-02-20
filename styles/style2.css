@@ -1,0 +1,13 @@
+body {
+	padding: 0em 2em;
+	margin: 0em;
+}
+
+section {
+	border-radius: 1em;
+	margin: 1em;
+	padding: 0.5em 1.5em;
+	background-color: #217392;
+	border: 2px solid #B1D8E7;
+	color: #B1D8E7;
+}
